@@ -7,3 +7,5 @@ The dog's name is Mowgli. He is a husky.
 Mowgli has one blue eye and one brown eye.
 
 Mowgli was adopted from a farm in Atlanta and now lives in Chicago.
+
+Mowgli is trying to learn how to ride on the back of a motorcycle.
